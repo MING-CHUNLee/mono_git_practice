@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2022-03-09 10:34:06
- * @LastEditTime: 2022-03-09 10:40:08
+ * @LastEditTime: 2022-03-09 15:49:22
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \stroy\Story.md
@@ -14,4 +14,4 @@
 
 # 故事2
 
-小明和父母吵了一架，一賭氣離家出走了 走了很久，口渴了，翻了翻衣带，没有帶Money… ，於是找到了好朋友小白，要到小白家暫住幾天，到小白家後發現小白家的柯基很可愛!於是直接跑上去撸狗，
+小明和父母吵了一架，一賭氣離家出走了 走了很久，口渴了，翻了翻衣带，没有帶Money… ，於是找到了好朋友小白，要到小白家暫住幾天，到小白家後發現小白家的柯基很可愛!於是直接跑上去撸狗，瘋狂摸摸肉球
