@@ -7,7 +7,6 @@
  * @FilePath: \stroy\idiom.md
 -->
 
-
 1. 龍行虎步
 2. 步步高升
 3. 升山采珠
